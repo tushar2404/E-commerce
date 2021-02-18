@@ -1,0 +1,50 @@
+[{
+    "Prod":"Jacket",
+    "ID": 100,
+    "Description": "Premium feather down jacket, Traps body heat and keeps extremely warm.",
+    "Price": "₹789",
+     "image": "https://m.media-amazon.com/images/I/81eHwQrwppL._AC_UL480_FMwebp_QL65_.jpg",
+    "Quantity": 1
+}, {
+  "Prod":"SmartPhone",
+    "ID": 101,
+    "Description": "The model is powered by Snapdragon 662 chipset and equipped with 4GB of RAM. The hybrid slot allows you to simultaneously install 2 SIM cards and a memory card (up to 512 GB).\n\nThe feature of the model is a powerful 6000 mAh battery. The smartphone supports 18W fast charging.\n\nThe manufacturer also took care of the sound, because the model has received stereo speakers.\n\nPOCO M3 has a 6.53-inch model with Full HD + resolution and supports all necessary functions (reading mode, night mode, and \"Sun mode\")\n\nThe main camera of the model is triple. The main sensor is 48 MP. The camera supports portrait and night mode. Another feature of the model is a fingerprint scanner built into a button on the side panel.",
+    "Price": "₹16799",
+    "image":"https://images-eu.ssl-images-amazon.com/images/I/41S3ERlmEgL._AC_US240_FMwebp_QL65_.jpg",
+  "Quantity": 1
+}, {
+  "Prod":"Jeans",
+    "ID": 102,
+    "Description": "The ultimate skinny fit for men. Our 65504™ Skinny Fit Jean is cut for contemporary style and infused with stretch for extra mobility.",
+    "Price": "₹699",
+    "image":"https://m.media-amazon.com/images/I/81nu5gVb03L._AC_UL480_FMwebp_QL65_.jpg","Quantity": 1
+
+}, {
+  "Prod":"Lenovo laptop",
+    "ID": 103,
+    "Description": "processor 10th Generation Intel® Core™ i5-10210U Processor (6MB Cache, up to 4.2 GHz)\n\nlaptop\nWindows 10 Home Single Language, English\n\nvideocard\nNVIDIA® GeForce® MX250 with 2GB GDDR5 graphics memory\n\nmemory\n8GB,4Gx1 + 4G onboard, DDR4, 2666MHz\n\nharddrive\n512GB M.2 PCIe NVMe Solid State Drive\n\ncolor\nLCD Back Cover for Non-touch Display with Backlit Silver Keyboard- Platinum Silver (ICC)",
+    "Price": "₹76000",
+    "image":"https://m.media-amazon.com/images/I/81nEs+l5UgL._AC_UY327_FMwebp_QL65_.jpg","Quantity": 1
+}
+, {
+  "Prod":"Acer Laptop",
+  "ID": 104,
+  "Description": " Chromebook runs on Chrome OS - An operating system by Google that is built for the way we live today. It comes with built-in virus protection, updates automatically, boots up in seconds and continues to stay fast over time. (Internet connection is required).\nAll the Google apps you know and love come standard on every Chromebook, which means you can edit, download, and convert Microsoft Office files in Google Docs, Sheets and Slides.\nGet access to more than 2 million Android apps from Google Play to learn and do more.\nChromebooks come with built-in storage for offline access to your most important files and an additional 100GB of Google Drive space to ensure that all of your files are backed up automatically.\nAcer CP311-2H-C679 convertible Chromebook comes with 11.6” HD Touch IPS Display, Intel Celeron N4020, 4GB LPDDR4 Memory, 32GB eMMC, Google Chrome and up to 10-hours battery life. ",
+  "Price": "₹95000",
+  "image":"https://m.media-amazon.com/images/I/610oaBCr+XL._AC_UY327_FMwebp_QL65_.jpg","Quantity": 1
+}
+, {
+  "Prod":"Android LED",
+  "ID": 105,
+  "Description": "Resolution: HD Ready (1366x768) | Refresh Rate: 60 hertz\nConnectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 1 USB ports to connect hard drives and other USB devices\nSound : 20 Watts Output | Dolby Digital Plus\nSmart TV Features : Voice Assistants | SmartThings App | Personal Computer | Home Cloud | Live Cast | Screen Share | Music System\nDisplay : LED Panel | Mega Contrast | PurColor | HD Picture Quality | Slim & Stylish Design\nAlexa Built-in: Voice control your TV and your day. Just ask Alexa to search for movies, play music, control smart home devices, get sports updates and more\n1 Year Comprehesive and 2 Year Additional Warranty on Panel. Offer validity is basis date of invoice from 10th Oct till 10th Nov\nInstallation: For requesting installation/wall mounting/demo of this product once delivered, please directly call Samsung support on [1800407267864 / 180057267864] and provide product's model name as well as seller's details mentioned on the invoice\nEasy returns: This product is eligible for replacement within 10 days of delivery in case of any product defects, damage or features not matching the description provided",
+  "Price": "₹89000",
+  "image":"https://m.media-amazon.com/images/I/91LzCxOO3fL._AC_UY327_FMwebp_QL65_.jpg","Quantity": 1
+}
+, {
+  "Prod":"Apple Airpods",
+  "ID": 106,
+  "Description": "AirPods deliver an unparalleled listening experience with all your devices. Every model connects effortlessly and packs rich, high-quality sound into an innovative wireless design.",
+  "Price": "₹12000",
+  "image":"https://m.media-amazon.com/images/I/71zny7BTRlL._AC_SX360_SY240_QL70_.jpg","Quantity": 1
+}
+]

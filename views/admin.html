@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="homestyle.css">
+    <style>
+        label{
+            width: 300px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+<a style="float: right;margin: 30px;" class="btn btn-success" href="./listProd.html">Go to Listing</a>
+<a class="btn btn-danger" style="float: right;margin-top:30px;" href="/logout">
+    LogOut
+</a>
+<div class="center " style="border:solid black 2px;" >
+    <form method="get" action="/addProdAdmin" enctype="multipart/form-data">
+    <h1>Welcome admin</h1>
+    <p>
+    <label for="ProductName" >
+        Product Name :
+    </label>
+        <input id="ProductName" name="Prod" placeholder="Product Name" class="mar" required="required">
+    </p>
+    <p>
+    <label for="ProductDescription">
+        Product Description :
+    </label>
+        <input id="ProductDescription" name="Description" placeholder="Product Description" class="mar" required="required">
+    </p>
+    <p>
+    <label for="ProductPrice">
+        Product Price :
+    </label>
+        <input id="ProductPrice" name="Price" placeholder="Product Price" class="mar" required="required">
+    </p>
+    <p>
+    <label for="ProductQuantity">
+        Product Quantity :
+    </label>
+        <input id="ProductQuantity" name="TQuantity" placeholder="Product Quantity" class="mar" required="required">
+    </p>
+    <p>
+    <label for="ProductImageLink">
+        Product Image Link :
+    </label>
+        <input id="ProductImageLink" name="image" placeholder="Product Image Link" class="mar" required="required">
+    </p>
+        <p>
+            <label for="ProductID">
+                Product ID :
+            </label>
+            <input id="ProductID" name="ID" placeholder="Product ID" class="mar" required="required">
+        </p>
+    <button name="add" type="submit" class="btn btn-primary" >Add Product</button>
+    </form>
+</div>
+</body>
+</html>

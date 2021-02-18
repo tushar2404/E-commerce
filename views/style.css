@@ -1,0 +1,29 @@
+*{
+    padding: 5px;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+@media (max-width: 800px) {
+    .flex-container {
+        flex-direction: column;
+    }
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.boxSub{
+    border: solid grey 1px;
+    flex: 1 0 21%;
+    margin: 5px;
+}
